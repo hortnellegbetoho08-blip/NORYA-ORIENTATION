@@ -285,3 +285,20 @@ footer#contact h2 {
 .accordion-item.active .accordion-content {
   display: block;
 }
+
+
+
+
+.resultats {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.resultats th, .resultats td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
